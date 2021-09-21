@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://monterrosa0721.github.io/csb-9q309/static/css/main.afab036c.chunk.css",
+    "main.js": "https://monterrosa0721.github.io/csb-9q309/static/js/main.9deb1af4.chunk.js",
+    "main.js.map": "https://monterrosa0721.github.io/csb-9q309/static/js/main.9deb1af4.chunk.js.map",
+    "runtime-main.js": "https://monterrosa0721.github.io/csb-9q309/static/js/runtime-main.b8663c99.js",
+    "runtime-main.js.map": "https://monterrosa0721.github.io/csb-9q309/static/js/runtime-main.b8663c99.js.map",
+    "static/js/2.37ef8c98.chunk.js": "https://monterrosa0721.github.io/csb-9q309/static/js/2.37ef8c98.chunk.js",
+    "static/js/2.37ef8c98.chunk.js.map": "https://monterrosa0721.github.io/csb-9q309/static/js/2.37ef8c98.chunk.js.map",
+    "index.html": "https://monterrosa0721.github.io/csb-9q309/index.html",
+    "precache-manifest.086a04de4de05e1246f58bf0674a2f85.js": "https://monterrosa0721.github.io/csb-9q309/precache-manifest.086a04de4de05e1246f58bf0674a2f85.js",
+    "service-worker.js": "https://monterrosa0721.github.io/csb-9q309/service-worker.js",
+    "static/css/main.afab036c.chunk.css.map": "https://monterrosa0721.github.io/csb-9q309/static/css/main.afab036c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8663c99.js",
+    "static/js/2.37ef8c98.chunk.js",
+    "static/css/main.afab036c.chunk.css",
+    "static/js/main.9deb1af4.chunk.js"
+  ]
+}
